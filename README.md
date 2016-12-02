@@ -1,6 +1,6 @@
 # MyOwnerBot
 
-[Developem] (https://telegram.me/Dogtor)
+[Developer] (https://telegram.me/Dogtor)
 
 # 🔸commands🔹
 
@@ -67,8 +67,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 `sudo apt-get install lua-sec`
 
 1⃣-- Write>>
-
-cd $HOME
+`cd $HOME`
 
 5⃣-- Write>> Clone the bot Write ⏬⏬
 ```
