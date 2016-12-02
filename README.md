@@ -90,7 +90,7 @@ local BASE_FOLDER = "" -- do not set this
 
 ```lua
 local var = false
-  local admins = {140629197,987654321}-- اضع ايديك هنا
+  local admins = {140629197,987654321}-- put your id here
   for k,v in pairs(admins) do
 
 ```
