@@ -2,7 +2,7 @@
 
 [Developer] (https://telegram.me/Dogtor)
 
-# 🔸Ccommands🔹
+# 🔸Commands🔹
 
  **Sticker😊 to Photo🌄**
 
