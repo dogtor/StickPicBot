@@ -72,9 +72,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 5⃣-- Write>> Clone the bot Write ⏬⏬
 ```
 git clone https://github.com/dogtor/MyOwnerBot.git
-cd MyOwnerBot
-
 ```
+
+1⃣-- Write>>
+`cd MyOwnerBot`
 
 🚸Then install bot using✅
 `lua bot.lua`
