@@ -9,33 +9,33 @@ local bot_api_key = "" --👈put token in "heretoken"
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
 local start = [[HI
-🔸commands🔹
-bold text ✅
+🔹🔹Commands🔹🔹
+🔰 Bold Text 🔰
 /bold text
 return *bold* text
-italic text ✅
+🔰 Italic Text 🔰
 /italic text
 return _italic_ text
-markdown link ✅
+🔰 Markdown Link 🔰
 /link url text
-code text ✅
+🔰 Code Text 🔰
 /code text
 return `code` text
-*-channel📣*
+*-Channel🔊*
 *👤add bot to a channel then use this commands💠*
-`/boldch @channelusername text`
-send *bold* text to a channel
-`/italicch @channelusername text`
-send _italic_ text to a channel
-`/linkch @channelusername url text`
-send markdown link to a channel
-`/codech @channelusername text`
+`/boldch @yourchannel text`
+Send *Bold* Text to a Channel
+`/italicch @yourchannel text`
+Send _Italic_ Text to a Channel
+`/linkch @yourchannel url text`
+Send Markdown Link to a Channel
+`/codech @yourchannel text`
 send `code` text to a channel
-*-other💠*
-sticker🏰 to photo🌄
-just send a sticker
-photo🌄 to sticker🏰
-just send a photo
+*-Other💠*
+sticker😊 to Photo🌄
+Just send a sticker
+photo🌄 to Sticker😊
+Just send a photo
 ]] 
 
 -------
