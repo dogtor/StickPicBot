@@ -2,7 +2,7 @@
 
 [Developer] (https://telegram.me/Dogtor)
 
-# 🔸Commands🔹
+# 🔹🔹Commands🔹🔹
 
  **Sticker😊 to Photo🌄**
 
@@ -12,19 +12,19 @@
 
 `Just send a photo`
 
-  **Bold Text** ✅
+ 🔰 **Bold Text**
 
 `/bold text`
 
- **Italic Text** ✅
+ 🔰 **Italic Text**
 
 `/italic text`
 
- **Markdown Link** ✅
+ 🔰 **Markdown Link**
 
 `/link url text`
 
-**Code Text** ✅
+ 🔰 **Code Text**
 
 `/code text`
 
