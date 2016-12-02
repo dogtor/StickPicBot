@@ -49,12 +49,9 @@
 # Installation 🚩
 
 1⃣-- Write>>
-
-sudo apt-get update
-
+`sudo apt-get update`
 1⃣-- Write>>
-
-sudo apt-get upgrade
+`sudo apt-get upgrade`
 
 2⃣-- Write>>
 
