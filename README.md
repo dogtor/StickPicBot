@@ -4,11 +4,11 @@
 
 # 🔸commands🔹
 
- **sticker🏰 to photo🌄**
+ **sticker😊 to photo🌄**
 
 `just send a sticker`
 
- **photo🌄 to sticker🏰**
+ **photo🌄 to sticker😊**
 
 `just send a photo`
 
