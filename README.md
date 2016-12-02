@@ -2,49 +2,49 @@
 
 [Developer] (https://telegram.me/Dogtor)
 
-# 🔸commands🔹
+# 🔸Ccommands🔹
 
- **sticker😊 to photo🌄**
+ **Sticker😊 to Photo🌄**
 
-`just send a sticker`
+`Just send a sticker`
 
- **photo🌄 to sticker😊**
+ **Photo🌄 to Sticker😊**
 
-`just send a photo`
+`Just send a photo`
 
-  **bold text** ✅
+  **Bold Text** ✅
 
 `/bold text`
 
- **italic text** ✅
+ **Italic Text** ✅
 
 `/italic text`
 
- **markdown link** ✅
+ **Markdown Link** ✅
 
 `/link url text`
 
-**code text** ✅
+**Code Text** ✅
 
 `/code text`
 
-# channel📣
+# Channel📣
 
- **send bold text to a channel**
+ **Send Bold Text to a Channel**
 
-`/boldch @channelusername text`
+`/boldch @yourchannel text`
 
- **send italic text to a channel**
+ **Send Italic Text to a Channel**
 
-`/italicch @channelusername text`
+`/italicch @yourchannel text`
 
- **send markdown link to a channel**
+ **Send Markdown Link to a Channel**
 
-`/linkch @channelusername url text`
+`/linkch @yourchannel url text`
 
-**send code text to a channel**
+**Send Code Text to a Channel**
 
-`/codech @channelusername text`
+`/codech @yourchannel text`
 
 # Installation 🔌
 
