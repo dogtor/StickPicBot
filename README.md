@@ -28,25 +28,25 @@
 
 `/code text`
 
-# Channel📣
+# Channel 🔊
 
- **Send Bold Text to a Channel**
+  ➿ **Send Bold Text to a Channel** ➿
 
 `/boldch @yourchannel text`
 
- **Send Italic Text to a Channel**
+  ➿ **Send Italic Text to a Channel** ➿
 
 `/italicch @yourchannel text`
 
- **Send Markdown Link to a Channel**
+  ➿ **Send Markdown Link to a Channel** ➿
 
 `/linkch @yourchannel url text`
 
-**Send Code Text to a Channel**
+  ➿ **Send Code Text to a Channel** ➿
 
 `/codech @yourchannel text`
 
-# Installation 🔌
+# Installation 🚩
 
 1⃣-- Write>>
 
