@@ -1,4 +1,4 @@
-# MyOwnerBot
+# StickPicBot
 
 [Developer] (https://telegram.me/Dogtor)
 
